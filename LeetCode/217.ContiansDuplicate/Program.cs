@@ -7,25 +7,15 @@ namespace ContainsDuplicate
   {
     public bool ContainsDuplicate(int[] nums)
     {
-
-      Array.Sort(nums);
-
-      foreach(int i in nums)
-      {
-        if (i > 0)
+        HashSet<int> set = new HashSet<int>(nums);
+        if (set.Count < nums.Length)
         {
-
+                return true;
         }
-      }
-      
-      if (true)
-      {
-        return true;
-      }
-      else
-      {
-        return false;
-      }
+        else
+        {
+                return false;
+        }
     }
   }
 

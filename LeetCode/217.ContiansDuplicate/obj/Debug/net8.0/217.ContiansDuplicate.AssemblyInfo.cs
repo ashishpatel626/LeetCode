@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("217.ContiansDuplicate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3870e0070e51ac1a81759b64fc6921af93ec9618")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a4014c27bfde9d5cdbb27afdccfb8dc0fafd35b")]
 [assembly: System.Reflection.AssemblyProductAttribute("217.ContiansDuplicate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("217.ContiansDuplicate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
